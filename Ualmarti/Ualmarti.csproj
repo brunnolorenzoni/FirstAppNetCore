@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Remove="Controllers\DepartamentsController.cs" />
+    <Compile Remove="Controllers\DepartamentsController - Cópia.cs" />
   </ItemGroup>
 
   <ItemGroup>
