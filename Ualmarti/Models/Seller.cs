@@ -28,6 +28,16 @@ namespace Ualmarti.Models
             Departament = departament;
         }
 
+        public Seller(string name, string email, DateTime birthDate, double baseSalary, Departament departament)
+        {
+
+            Name = name;
+            Email = email;
+            BirthDate = birthDate;
+            BaseSalary = baseSalary;
+            Departament = departament;
+        }
+
         internal static void Add(Seller seller)
         {
             throw new NotImplementedException();

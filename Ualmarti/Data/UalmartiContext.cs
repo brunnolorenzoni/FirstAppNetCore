@@ -14,5 +14,7 @@ namespace Ualmarti.Models
         }
 
         public DbSet<Ualmarti.Models.Departament> Departament { get; set; }
+        public DbSet<Ualmarti.Models.Seller> Seller { get; set; }
+        public DbSet<Ualmarti.Models.SalesRecord> SalesRecord { get; set; }
     }
 }

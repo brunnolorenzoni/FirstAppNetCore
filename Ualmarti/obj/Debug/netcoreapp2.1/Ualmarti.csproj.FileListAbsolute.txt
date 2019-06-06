@@ -30,3 +30,4 @@ C:\Users\801202062\source\repos\Ualmarti\Ualmarti\obj\Debug\netcoreapp2.1\Ualmar
 C:\Users\801202062\source\repos\Ualmarti\Ualmarti\obj\Debug\netcoreapp2.1\Ualmarti.dll
 C:\Users\801202062\source\repos\Ualmarti\Ualmarti\obj\Debug\netcoreapp2.1\Ualmarti.pdb
 C:\Users\801202062\source\repos\Ualmarti\Ualmarti\obj\Debug\netcoreapp2.1\Ualmarti.csproj.CopyComplete
+C:\Users\801202062\source\repos\Ualmarti\Ualmarti\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
