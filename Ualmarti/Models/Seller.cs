@@ -13,6 +13,10 @@ namespace Ualmarti.Models
         public string Email { get; set; }
         public DateTime BirthDate { get; set; }
         public double BaseSalary { get; set; }
+
+        /*Chave estrangeira*/
+        public int DepartamentId { get; set; }
+
         public Departament Departament { get; set; }
         ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
 

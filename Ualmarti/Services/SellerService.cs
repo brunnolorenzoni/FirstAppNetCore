@@ -23,6 +23,19 @@ namespace Ualmarti.Services
             return sellerList;
         }
 
+        public void Insert(Seller obj)
+        {
+
+            //obj.Departament = _context.Departament.First();
+            
+            //Adiciona
+            _context.Add(obj);
+
+            //Persistencia
+            _context.SaveChanges();
+
+        }
+
 
     }
 }
